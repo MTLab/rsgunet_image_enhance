@@ -4,9 +4,11 @@
   3. To train the model you just need run the squid/train.py.
 
 ## Please cite our paper:
+```
 @InProceedings{RSGUNet2018,
 author = {J. Huang and P. Zhu and M. Geng and J. Ran and X. Zhou and C. Xing and P. Wan and X. Ji},
 title={Range Scaling Global U-Net for Perceptual Image Enhancement on Mobile Devices},
 booktitle={European Conference on Computer Vision Workshops},
 year={2018},
 }
+```
